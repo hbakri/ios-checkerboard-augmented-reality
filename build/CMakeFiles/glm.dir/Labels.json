@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/hbakri/3A-SN/AR/TP1/build/CMakeFiles/glm"
+		},
+		{
+			"file" : "/home/hbakri/3A-SN/AR/TP1/build/CMakeFiles/glm.rule"
+		},
+		{
+			"file" : "/home/hbakri/3A-SN/AR/TP1/build/CMakeFiles/glm-complete.rule"
+		},
+		{
+			"file" : "/home/hbakri/3A-SN/AR/TP1/3rdparty/glm/src/glm-stamp/glm-install.rule"
+		},
+		{
+			"file" : "/home/hbakri/3A-SN/AR/TP1/3rdparty/glm/src/glm-stamp/glm-mkdir.rule"
+		},
+		{
+			"file" : "/home/hbakri/3A-SN/AR/TP1/3rdparty/glm/src/glm-stamp/glm-download.rule"
+		},
+		{
+			"file" : "/home/hbakri/3A-SN/AR/TP1/3rdparty/glm/src/glm-stamp/glm-update.rule"
+		},
+		{
+			"file" : "/home/hbakri/3A-SN/AR/TP1/3rdparty/glm/src/glm-stamp/glm-patch.rule"
+		},
+		{
+			"file" : "/home/hbakri/3A-SN/AR/TP1/3rdparty/glm/src/glm-stamp/glm-configure.rule"
+		},
+		{
+			"file" : "/home/hbakri/3A-SN/AR/TP1/3rdparty/glm/src/glm-stamp/glm-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"glm"
+		],
+		"name" : "glm"
+	}
+}

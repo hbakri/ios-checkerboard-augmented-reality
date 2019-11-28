@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/hbakri/3A-SN/AR/TP1/src/tutorials/load_modify_image.cpp
+opencv2/core/core.hpp
+-
+opencv2/highgui/highgui.hpp
+-
+opencv2/imgproc/imgproc.hpp
+-
+iostream
+-
+

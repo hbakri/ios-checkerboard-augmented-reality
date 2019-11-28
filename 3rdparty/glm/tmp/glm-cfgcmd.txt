@@ -1,0 +1,1 @@
+cmd='./configure;--prefix=/home/hbakri/3A-SN/AR/TP1/3rdparty/glm/build;--enable-shared'

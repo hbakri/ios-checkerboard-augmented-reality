@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../../lib/libtracker.a  CMakeFiles/tracker.dir/utility.cpp.o CMakeFiles/tracker.dir/ChessboardCameraTracker.cpp.o CMakeFiles/tracker.dir/ChessboardCameraTrackerKLT.cpp.o CMakeFiles/tracker.dir/Camera.cpp.o
+/usr/bin/ranlib ../../../lib/libtracker.a

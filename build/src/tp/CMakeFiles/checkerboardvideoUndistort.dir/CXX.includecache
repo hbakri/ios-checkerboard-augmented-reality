@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/hbakri/3A-SN/AR/TP1/src/tp/checkerboardvideoUndistort.cpp
+opencv2/core/core.hpp
+-
+opencv2/imgproc/imgproc.hpp
+-
+opencv2/calib3d/calib3d.hpp
+-
+opencv2/highgui/highgui.hpp
+-
+cstdio
+-
+cstring
+-
+iostream
+-
+ctime
+-
+

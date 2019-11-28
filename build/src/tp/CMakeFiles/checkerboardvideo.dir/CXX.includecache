@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../src/tp/./tracker/tracker/Camera.hpp
+opencv2/core/core.hpp
+-
+
+../src/tp/./tracker/tracker/utility.hpp
+Camera.hpp
+../src/tp/./tracker/tracker/Camera.hpp
+opencv2/core/core.hpp
+-
+opencv2/highgui/highgui.hpp
+-
+iostream
+-
+
+/home/hbakri/3A-SN/AR/TP1/src/tp/checkerboardvideo.cpp
+tracker/utility.hpp
+-
+opencv2/core/core.hpp
+-
+opencv2/imgproc/imgproc.hpp
+-
+opencv2/calib3d/calib3d.hpp
+-
+opencv2/highgui/highgui.hpp
+-
+cstdio
+-
+cstring
+-
+iostream
+-
+ctime
+-
+
